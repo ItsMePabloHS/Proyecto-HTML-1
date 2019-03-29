@@ -1,0 +1,66 @@
+<html>
+	<head>
+		<link rel="stylesheet" href="hojaestilo.css" type="text/css" media="all">
+
+		<title>Literatura 2ºBH</title>
+	</head>
+
+	<body style="background-color:Gainsboro;">
+	<audio src="music1ind.mp3" autoplay="true" loop="true"></audio>
+
+		<article>
+			<h1>Teatro del 36 hasta el 75</h1>
+			<br/>
+			<h2>Teatro de renovación o <span style="color:rgb(200,0,0);font-style:italic">disparate</span></h2>
+			<p>Con propuestas de un humor nuevo,disparatado y poético, poco comprendido por el público, que siguió cultivándose durante la primera posguerra. Sus principales representantes son los dramaturgos <a href="#Enrique Jardiel Poncela"><strong>Enrique Jardiel Poncela</strong></a>  (1901-1952) y <a href="#Miguel Mihura"><span style="color:rgb(0,153,0);"><strong>Miguel Mihura</strong></span></a> (1905-1977), en cuyas obras encontramos un humor absurdo, de raíz vanguardista, ajeno a la realidad de la época.</p>
+
+
+			<div style="border: 2px solid rgb(204, 102, 204);">
+			<div align="center">
+			<h3 id="Enrique Jardiel Poncela">Enrique Jardiel Poncela</h3>
+			<p><img src="imagen4ind.jpg"width="483px" height="387px"/></p>
+			</div>
+			<p>En las obras del también madrileño anteriores a la Guerra Civil –<samp>Usted tienen ojos de mujer fatal (1932), Las cinco advertencias de Satanás (1935), Cuatro corazones con freno y marcha atrás (1936)</samp>- se
+aprecian ya las características de su propuesta teatral, que presenta tres diferencias fundamentales con respecto al teatro
+cómico de Arniches (casticismo madrileño), los Quintero (casticismo andaluz) o Muñoz Seca:
+				<ul>
+				<li>Sucesos inverosímiles o fantásticos.</li>
+				<li>Humor inteligente basado en la agudeza verbal y las situaciones insólitas.</p>
+				<li>Desaparición de elementos castizos<7li>
+				</ul>
+				En los años 40, Poncela continúa escribiendo con éxito desigual –<samp>Un marido de ida y vuelta (1939) o Eloísa está debajo
+de un almendro (1940), Los ladrones somos gente honrada (1941)</samp>.<br/>
+				Su adhesión al régimen le hace <i>persona non grata</i> en América del Sur debido a los exiliados.<br/>
+				Uno de los grandes <u>renovadores del teatro de humor</u>, frente al costumbrista y sentimental. <mark>Experimenta</mark> lo
+inverosímil, lo fantástico y lo absurdo, <mark>bajo tesis vanguardistas</mark>. Imaginativo y deslumbrante, es criticado por el
+<u>apresuramiento de los desenlaces y la explicación verosímil final.</u></p>
+			</div>
+
+			<div style="border: 2px solid rgb(204, 102, 204);">
+			<div align="center">
+			<h3 id="Miguel Mihura">Miguel Mihura</h3>
+			<p><img src="imagen5ind.jpg"width="483px" height="387px"/></p>
+			</div>
+			<p>Fundador de la revista cómica <samp>La codorniz</samp> entre 1941-1944, el madrileño Miguel Mihura es el autor de la
+extraordinaria obra Tres sombreros de copa (1932), obra fundacional de la comedia del disparate fue escrita en 1932,
+pero no se estrenó hasta 1952, veinte años después.<br/> <u>ARGUMENTO</u>:un hombre llega a un hotel la noche antes de casarse y allí conoce a una mujer de una compañía itinerante de la cual se enamora, aunque al final de la noche, aun habiendo descubierto un nuevo mundo, vuelve a su vida despidiéndose de su nuevo amor.</p>
+			<p>El autor usa lo siguiente para crear humor:
+				<ul>
+				<li>Acumulación de objetos inútiles</li>
+				<li>Juegos con el lenguaje</li>
+				<li>Encadenamiento de situaciones disparatados</li>
+				</ul>
+			</p>
+			<p><u>De estructura clásica</u>: tres actos correspondientes al planteamiento, nudo
+y desenlace y escrupuloso respeto a la <mark>regla de las tres unidades</mark> –espacio, tiempo y acción. La <mark>trasgresión viene del
+humor disparatado y absurdo, vanguardista</mark>, con gran carga de rebeldía moral y estética.</p>
+			</div>
+			<div align="center">
+			<p>Abordaremos ahora el <a href="index4.html"><strong>teatro del exilio.</strong></a></p>
+			</div>
+
+			
+			
+		</article>
+	</body>
+</html>

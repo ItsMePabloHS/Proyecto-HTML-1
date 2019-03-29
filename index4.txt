@@ -1,0 +1,88 @@
+<html>
+	<head>
+		<link rel="stylesheet" href="hojaestilo.css" type="text/css" media="all">
+
+		<title>Literatura 2ºBH</title>
+	</head>
+
+	<body style="background-color:Gainsboro;">
+
+		<audio src="music1ind.mp3" autoplay="true" loop="true"></audio>
+
+		<article>
+			<h1>Teatro del 36 hasta el 75</h1>
+			<br/>
+			<h2>El teatro en el <span style="color:rgb(200,0,0);font-style:italic;">exilio</span></h2>
+			<p>El teatro de los autores exiliados <mark>continúa en tierras americanas</mark> gracias no solo a los autores prominentes como Rafael Alberti, Max Aub y Alejandro Casona, sino a actores y actrices como la republicana Margarita Xirgú
+			<br/>
+			Los tres dramaturgos españoles en el exilio son <a href="#Rafael Alberti"><strong>Rafael Alberti</strong></a>, <a href="#Max Aub"><strong>Max Aub</strong></a> y <a href="#Alejandro Casona"><strong>Alejandro Casona</strong></a>.</p>
+
+			<div style="border: 2px solid rgb(204, 102, 204);">
+			<div align="center">
+			<h3 id="Rafael Alberti">Rafael Alberti</h3>
+			<p><img src="imagen6ind.jpg"width="483px" height="387px"/></p>
+			</div>	
+				<table border="1">
+				<caption><strong><mark>Obras de Rafael Alberti</mark></strong></caption>
+				<colgroup style="background-color: rgb(220, 220, 200);" span="1"></colgroup>
+				<thead>
+				<tr>
+				<th>Obras</th>
+				<th>Argumento</th>
+				</tr>
+				</thead>
+
+				<tbody>
+				<tr>
+				<td>El adefesio</td>
+				<td>Tragedia con elementos esperpénticos y simbólicos.Trata sobre una tía que se erige tirana sobre sus sobrinas, llevando a una al suicido al coartarle el amor</td>
+				</tr>
+				<tr>
+				<td>Noche de guerra en el Museo del Prado.</td>
+				<td>Drama político.Durante los bombardeos de
+Madrid, en 1936, en el sótano del Museo del Prado, los personajes de los cuadros de Goya cobran vida para luchar contra
+las tropas de Napoleón, que se identifican metafóricamente con los sitiadores franquistas.<td>
+				</tr>
+				</tbody>
+				</table>
+			</div>
+
+			<div style="border: 2px solid rgb(204, 102, 204);">
+			<div align="center">
+			<h3 id="Max Aub">Max Aub</h3>
+			<p><img src="imagen7ind.jpg"width="483px" height="387px"/></p>
+			</div>
+			<p>Encerrado en España debido al trabajo de su padre, acabó por pedir la nacionalidad, aunque con la guerra civil tuvo que irse al exilio, donde continuó su obra. Destaca sobre todas <samp>El rapto de Europa</samp>, un drama real que trata sobre cómo el Comité Americano de Socorro estableció la resistencia en Marsella y permitió que los intelectuales y artistas, entre los que se encontraba él mismo, huyeran de los totalitarismos nazi-fascistas.</p>
+			<p><strong>Temática</strong>: todas versan sobre la <mark>Guerra Civil, los campos de concentración, el exilio, la guerra fría</mark>... Su teatro ofrece un
+marcado carácter <mark>experimental</mark> y brinda una <mark>cuidada elaboración</mark>. 
+			<br/>
+			<strong>Rasgos dramáticos destacados</strong>: carácter <mark>documental</mark>,
+estética <mark>realista</mark> y cierto <mark>tono épico</mark>.<p>
+
+
+			<div style="border: 2px solid rgb(204, 102, 204);">
+			<div align="center">
+			<h3 id="Alejandro Casona">Alejandro Casona</h3>
+			<p><img src="imagen8ind.jpg"width="483px" height="387px"/></p>
+			</div>
+			<p>Antes del estilo destaca no solo como dramaturgo sino como director del Teatro del Pueblo, compañía que, como La barraca de Lorca, difundía las misiones pedagógicas.
+			<br/>
+			En lo referente a su obra, bebe del <mark>teatro poético</mark> del Modernismo de <i>Ruben Darío o del mismo Lorca.</i> Además, si bien sus mejores obras son en el exilio (<samp>La dama del alba</samp>), este no supone una alteración sustancial de su estética o temática.
+			<br/>
+			Su teatro, de <mark>poesía y misterio pero ajeno a la realidad</mark> contemporánea, presenta las características siguientes:
+
+				<ul>
+				<li><strong>Conflicto entre fantasía y realidad.</strong></li>
+				<li><strong>Presencia de personajes alegóricos</strong>, como el Diablo (La barca sin pescador) o la Muerte (La dama del alba).</p>
+				<li><strong>Características teatrales notorias</strong>: profundo lirismo, lenguaje marcado por el simbolismo, lenguaje poético,
+propensión al melodrama, conflicto entre realidad y fantasía, el didactismo...</li>
+				</ul>
+			</div>
+			
+			
+
+
+			
+		</article>
+	</body>
+</html>

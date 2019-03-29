@@ -1,0 +1,32 @@
+<html>
+	<head>
+		<link rel="stylesheet" href="hojaestilo.css" type="text/css" media="all">
+
+		<title>Literatura 2ºBH</title>
+	</head>
+
+	<body style="background-color:Gainsboro;">
+
+		<audio src="music1ind.mp3" autoplay="true" loop="true"></audio>
+
+		<article>
+			<h1>Teatro del 36 hasta el 75</h1>
+			<br/>
+			<h2>Teatro de <span style="color:rgb(200,0,0);font-style:italic">posguerra</span></h2>
+			<p>En la primera posguerra el teatro español sufrió una <mark>recesión</mark> debido a la <mark>falta de referentes</mark>, causada por ejemplo por la muerte de Lorca; a la <mark>censura</mark> que cohartó la libertad creativa; y a que tanto los <mark>empresarios como el público</mark> eran <mark>reacios a grandes innovaciones</mark>.</p>
+			<p>Así pues, nos encontramos con un teatro que bebe de la alta comedia de Benavente, unas composiciones de cierta calidad, con capacidad para provocar emociones como la risa o el llanto pero que se queda en una <mark>crítica superficial</mark>, fugaz y secundaria ya que su <mark>objetivo es amenizar</mark>, no provocar la reflexión del espectador.</p>
+			<p> Los autores más destacados de esta época son <strong><em>Joaquín Calvo Sotelo, Jose María Pemán y Edgar Neville</em></strong></p>
+			<div align="center">
+			<p><img src="imagen1ind.jpg"width="483px" height="387px"/> Joaquín Calvo Sotelo</p>
+			<p><img src="imagen2ind.jpg"width="483px" height="387px"/> Jose María Pemán</p>
+			<p><img src="imagen3ind.jpg"width="483px" height="387px"/> Edgar Neville</p>
+			<p>Pasaremos ahora a analizar el <a href="index3.html"><strong>teatro renovado o "del disparate"</strong></a></p>
+			</div>
+			
+			
+
+			
+			
+		</article>
+	</body>
+</html>
